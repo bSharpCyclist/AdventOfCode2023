@@ -62,7 +62,7 @@ input_lines = [
 ]
 
 # Get input from file
-with open("Day 01/Input.txt", "r") as file:
+with open("Input.txt", "r") as file:
     input_lines = file.readlines()
 
 # Calculate the sum of calibration values - Part 1
